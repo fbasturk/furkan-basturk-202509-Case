@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite data-provider-thread-count="1" name="Inseder">
+    <test name="Insider QA Job">
+        <parameter name="browserName" value="chrome"/>
+        <classes>
+            <class name="inseder.web.WebTestSet"/>
+        </classes>
+    </test>
+</suite>

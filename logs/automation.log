@@ -1,0 +1,87 @@
+2025-09-06 21:56:29.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  .......WebAutomationStart.xml
+
+2025-09-06 21:56:29.727 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 140.0.7339.80 (resolved driver for Chrome 140)
+2025-09-06 21:56:29.743 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as .....chromedriver.exe
+2025-09-06 21:56:31.177 [main] INFO  inseder.web.base.BaseTest - Test senaryolarina kosum basliyor: inseder.web.WebTestSet - Senaryo Adi: checkHomePage
+2025-09-06 21:56:32.767 [main] INFO  inseder.web.base.BasePage -   Sayfanın URL'i doğrulandı. Mevcut URL: https://useinsider.com/
+2025-09-06 21:56:32.809 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:56:33.230 [main] INFO  inseder.web.base.BaseTest - Test senaryosu kosumu tamamlandi: inseder.web.WebTestSet - Senaryo Adi: checkHomePage
+2025-09-06 21:56:33.232 [main] INFO  inseder.web.base.BaseTest - TEST BASARILI
+2025-09-06 21:56:33.235 [main] INFO  inseder.web.base.BaseTest - Test senaryolarina kosum basliyor: inseder.web.WebTestSet - Senaryo Adi: checkCareerPage
+2025-09-06 21:56:34.646 [main] INFO  inseder.web.base.BasePage -   Sayfanın URL'i doğrulandı. Mevcut URL: https://useinsider.com/
+2025-09-06 21:56:34.659 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:56:39.768 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:56:41.833 [main] INFO  inseder.web.WebTestSet -   For Index 1: Team Size = 3
+2025-09-06 21:56:45.981 [main] INFO  inseder.web.WebTestSet -   For Index 2: Team Size = 15
+2025-09-06 21:56:48.010 [main] INFO  inseder.web.pages.CareersPage -   TEAM NAME:
+2025-09-06 21:56:48.258 [main] INFO  inseder.web.pages.CareersPage -   1-Customer Success
+2025-09-06 21:56:48.258 [main] INFO  inseder.web.pages.CareersPage -   2-Sales
+2025-09-06 21:56:48.258 [main] INFO  inseder.web.pages.CareersPage -   3-Product & Engineering
+2025-09-06 21:56:48.258 [main] INFO  inseder.web.pages.CareersPage -   4-Finance & Business Support
+2025-09-06 21:56:48.258 [main] INFO  inseder.web.pages.CareersPage -   5-Marketing
+2025-09-06 21:56:48.259 [main] INFO  inseder.web.pages.CareersPage -   6-CEO’s Executive Office
+2025-09-06 21:56:48.259 [main] INFO  inseder.web.pages.CareersPage -   7-Purchasing & Operations
+2025-09-06 21:56:48.259 [main] INFO  inseder.web.pages.CareersPage -   8-People and Culture
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   9-Business Intelligence
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   10-Security Engineering
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   11-Partnership
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   12-Quality Assurance
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   13-Mobile Business Unit
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   14-Partner Support Development
+2025-09-06 21:56:48.260 [main] INFO  inseder.web.pages.CareersPage -   15-Product Design
+2025-09-06 21:56:52.338 [main] INFO  inseder.web.pages.CareersPage -   LOCATION NAME:
+2025-09-06 21:56:52.373 [main] INFO  inseder.web.pages.CareersPage -   1-New York
+2025-09-06 21:56:54.449 [main] INFO  inseder.web.pages.CareersPage -   2-Sao Paulo
+2025-09-06 21:56:56.521 [main] INFO  inseder.web.pages.CareersPage -   3-London
+2025-09-06 21:56:58.594 [main] INFO  inseder.web.pages.CareersPage -   4-Paris
+2025-09-06 21:57:00.676 [main] INFO  inseder.web.pages.CareersPage -   5-Amsterdam
+2025-09-06 21:57:02.750 [main] INFO  inseder.web.pages.CareersPage -   6-Helsinki
+2025-09-06 21:57:04.817 [main] INFO  inseder.web.pages.CareersPage -   7-Warsaw
+2025-09-06 21:57:06.878 [main] INFO  inseder.web.pages.CareersPage -   8-Sydney
+2025-09-06 21:57:08.944 [main] INFO  inseder.web.pages.CareersPage -   9-Dubai
+2025-09-06 21:57:11.018 [main] INFO  inseder.web.pages.CareersPage -   10-Tokyo
+2025-09-06 21:57:13.089 [main] INFO  inseder.web.pages.CareersPage -   11-Seoul
+2025-09-06 21:57:15.163 [main] INFO  inseder.web.pages.CareersPage -   12-Singapore
+2025-09-06 21:57:17.227 [main] INFO  inseder.web.pages.CareersPage -   13-Bangkok
+2025-09-06 21:57:19.295 [main] INFO  inseder.web.pages.CareersPage -   14-Jakarta
+2025-09-06 21:57:21.360 [main] INFO  inseder.web.pages.CareersPage -   15-Taipei
+2025-09-06 21:57:23.424 [main] INFO  inseder.web.pages.CareersPage -   16-Manila
+2025-09-06 21:57:25.485 [main] INFO  inseder.web.pages.CareersPage -   17-Kuala Lumpur
+2025-09-06 21:57:27.552 [main] INFO  inseder.web.pages.CareersPage -   18-Ho Chi Minh City
+2025-09-06 21:57:29.618 [main] INFO  inseder.web.pages.CareersPage -   19-Istanbul
+2025-09-06 21:57:31.687 [main] INFO  inseder.web.pages.CareersPage -   20-Ankara
+2025-09-06 21:57:33.757 [main] INFO  inseder.web.pages.CareersPage -   21-Mexico City
+2025-09-06 21:57:35.824 [main] INFO  inseder.web.pages.CareersPage -   22-Lima
+2025-09-06 21:57:37.891 [main] INFO  inseder.web.pages.CareersPage -   23-Buenos Aires
+2025-09-06 21:57:39.956 [main] INFO  inseder.web.pages.CareersPage -   24-Bogota
+2025-09-06 21:57:42.037 [main] INFO  inseder.web.pages.CareersPage -   25-Santiago
+2025-09-06 21:57:44.118 [main] INFO  inseder.web.base.BaseTest - Test senaryosu kosumu tamamlandi: inseder.web.WebTestSet - Senaryo Adi: checkCareerPage
+2025-09-06 21:57:44.118 [main] INFO  inseder.web.base.BaseTest - TEST BASARILI
+2025-09-06 21:57:44.120 [main] INFO  inseder.web.base.BaseTest - Test senaryolarina kosum basliyor: inseder.web.WebTestSet - Senaryo Adi: checkJobList
+2025-09-06 21:57:45.017 [main] INFO  inseder.web.base.BasePage -   Sayfanın URL'i doğrulandı. Mevcut URL: https://useinsider.com/careers/quality-assurance/
+2025-09-06 21:57:45.021 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:57:51.123 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:57:59.522 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:58:09.887 [main] INFO  inseder.web.base.BasePage -   Current Window State  : complete
+2025-09-06 21:58:11.924 [main] INFO  inseder.web.pages.QualityAssurancePage -   JOB LIST:
+2025-09-06 21:58:11.995 [main] INFO  inseder.web.pages.QualityAssurancePage -   1-Senior Software Quality Assurance Engineer : Quality Assurance,Istanbul, Turkiye
+2025-09-06 21:58:12.031 [main] INFO  inseder.web.pages.QualityAssurancePage -   2-Software Quality Assurance Engineer : Quality Assurance,Istanbul, Turkiye
+2025-09-06 21:58:12.031 [main] INFO  inseder.web.base.BaseTest - Test senaryosu kosumu tamamlandi: inseder.web.WebTestSet - Senaryo Adi: checkJobList
+2025-09-06 21:58:12.033 [main] INFO  inseder.web.base.BaseTest - TEST BASARILI
+2025-09-06 21:58:12.033 [main] INFO  inseder.web.base.BaseTest - Test senaryolarina kosum basliyor: inseder.web.WebTestSet - Senaryo Adi: checkJobDepartmentLocation
+2025-09-06 21:58:12.058 [main] INFO  inseder.web.pages.QualityAssurancePage -   1-Location Dogru
+2025-09-06 21:58:12.071 [main] INFO  inseder.web.pages.QualityAssurancePage -   2-Location Dogru
+2025-09-06 21:58:12.098 [main] INFO  inseder.web.pages.QualityAssurancePage -   1-Department Dogru
+2025-09-06 21:58:12.112 [main] INFO  inseder.web.pages.QualityAssurancePage -   2-Department Dogru
+2025-09-06 21:58:12.113 [main] INFO  inseder.web.pages.QualityAssurancePage -   JOB LIST:
+2025-09-06 21:58:12.161 [main] INFO  inseder.web.pages.QualityAssurancePage -   1-Senior Software Quality Assurance Engineer : Quality Assurance,Istanbul, Turkiye
+2025-09-06 21:58:12.198 [main] INFO  inseder.web.pages.QualityAssurancePage -   2-Software Quality Assurance Engineer : Quality Assurance,Istanbul, Turkiye
+2025-09-06 21:58:12.198 [main] INFO  inseder.web.base.BaseTest - Test senaryosu kosumu tamamlandi: inseder.web.WebTestSet - Senaryo Adi: checkJobDepartmentLocation
+2025-09-06 21:58:12.198 [main] INFO  inseder.web.base.BaseTest - TEST BASARILI
+2025-09-06 21:58:12.200 [main] INFO  inseder.web.base.BaseTest - Test senaryolarina kosum basliyor: inseder.web.WebTestSet - Senaryo Adi: checkLeverApplication
+2025-09-06 21:58:17.305 [main] INFO  inseder.web.base.BasePage -   Current Window State  : loading
+2025-09-06 21:58:17.327 [main] INFO  inseder.web.base.BasePage -   Sayfanın URL'i doğrulandı. Mevcut URL: https://jobs.lever.co/useinsider/78ddbec0-16bf-4eab-b5a6-04facb993ddc
+2025-09-06 21:58:17.330 [main] INFO  inseder.web.base.BaseTest - Test senaryosu kosumu tamamlandi: inseder.web.WebTestSet - Senaryo Adi: checkLeverApplication
+2025-09-06 21:58:17.330 [main] INFO  inseder.web.base.BaseTest - TEST BASARILI
+2025-09-06 21:58:18.211 [main] INFO  inseder.web.base.BaseTest - Tarayici kapatildi.
